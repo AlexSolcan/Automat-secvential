@@ -1,0 +1,1 @@
+--incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "sursa_sim_neinversor_behav" "xil_defaultlib.sursa_sim_neinversor" -log "elaborate.log" 

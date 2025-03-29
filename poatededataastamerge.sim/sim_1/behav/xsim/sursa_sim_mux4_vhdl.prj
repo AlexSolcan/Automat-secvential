@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../poatededataastamerge.srcs/sources_1/new/mux4.vhd" \
+"../../../../poatededataastamerge.srcs/sim_1/new/sursa_sim_mux4.vhd" \
+
+# Do not sort compile order
+nosort
